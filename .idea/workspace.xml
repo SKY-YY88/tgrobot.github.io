@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb403b77-edd9-4bf1-95d5-eb786892960b" name="更改" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/tgrobot.github.io.data" beforeDir="false" afterPath="$PROJECT_DIR$/Build/tgrobot.github.io.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/tgrobot.github.io.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/Build/tgrobot.github.io.wasm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731640514365</updated>
       <workItem from="1731640516724" duration="203000" />
-      <workItem from="1731642383110" duration="5454000" />
+      <workItem from="1731642383110" duration="6665000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -76,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731648415367</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1731654568699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731654568699</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
